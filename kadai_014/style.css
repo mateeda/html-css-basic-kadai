@@ -1,0 +1,29 @@
+#decoration{
+    font-family: "Arial", "Meiryo", sans-serif;
+    text-align: center;
+}
+.google-fonts{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.decoration{
+    font-size: 40px;
+}
+.color{
+    color:rgb(255,192,203);
+}
+.pink{
+    color:rgb(255, 192, 203);
+}
+.skyblue{
+    color: #a0d8ef;
+}
+h1{
+    letter-spacing:1.2em ;
+    text-shadow: 1px 1px 2px gray;
+}
+#basic > P{
+    font-weight: bold;
+}
+.bottom{
+    border-bottom: solid 3px rgb(115, 115, 114);
+}
